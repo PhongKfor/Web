@@ -1,0 +1,32 @@
+body{
+    background-color:yellow ;
+    font-family:tahoma;
+    font-size:16px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#dautrang ul li{
+    list-style:none;
+}
+#dautrang >ul >li> a{
+    display :block;
+    float:left;
+    color:white ;
+    text-decoration:none;
+    line-height: 60px;
+    padding: 0px 20px 0px 20px;
+}
+#dautrang ul li a:hover{
+    background:orange ;
+}
+#dautrang{
+    width: 800px;
+    height: 60px;
+    background:purple;
+    margin:0px auto;
+    
+}
+
+
